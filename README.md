@@ -13,8 +13,6 @@
 
 ### A Self-Hosted UPI Payment Gateway for Merchants
 
-
-**Originally created by [Gaurav](https://github.com/gxurav1710). The project is now maintained by [Zenuxs](https://zenuxs.in).**
 **0% Gateway Fees • Direct-to-Bank Settlement • WhatsApp Pre-Checkout OTP • Bank SMS & Gmail Observers**
 
 > [!IMPORTANT]
